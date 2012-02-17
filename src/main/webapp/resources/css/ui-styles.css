@@ -1,0 +1,168 @@
+body {
+    margin: auto
+}
+
+a {
+    cursor: pointer;
+    color: #ff4500
+}
+
+table th {
+    background-color: #CCCCCC
+}
+
+ul {
+    padding: 0
+}
+
+ul li {
+    list-style: none;
+    padding-bottom: 7px
+}
+
+.managePayments {
+    margin: 15px 0 0 50px
+}
+
+.manageP {
+    margin-top: 30px
+}
+
+.no_underline {
+    font-weight: bold;
+    text-decoration: none;
+    margin-bottom: 20px
+}
+
+.error {
+    color: red
+}
+
+.orderImage {
+    margin-top: 5px
+}
+
+.align_right {
+    text-align: right;
+    width: 90px
+}
+
+.descriptionTd {
+    text-align: left
+}
+
+.totalAmount, .successMsg {
+    color: green
+}
+
+.successMsg {
+    padding-top: 10px
+}
+
+.ui-icon-circle-triangle-e {
+    margin-left: 98px
+}
+
+.ui-icon ui-icon-circle-triangle-e {
+    margin-left: 100px;
+}
+
+.ui-datepicker-title {
+    text-align: center;
+    padding-right: 14px;
+}
+
+#pemTitle {
+    margin: 30px 0 0 30px
+}
+
+#addDiv {
+    margin-left: 50px;
+    margin-top: 50px
+}
+
+#addForm {
+    width: 360px
+}
+
+#addTable {
+    width: 270px;
+    margin-left: 48px
+}
+
+#amount {
+    width: 129px
+}
+
+#dateInput {
+    width: 158px
+}
+
+#addButton, #showPaymentsButton {
+    height: 23px;
+    font-weight: bold;
+    font-size: 12px
+}
+
+#addButton, #datePickerParent {
+    margin-left: 92px
+}
+
+#addButton {
+    width: 156px;
+    margin-top: 4px
+}
+
+#showPaymentsButton {
+    width: 135px;
+    margin-left: 13px
+}
+
+#paymentsDiv {
+    margin: 50px 0 0 50px
+}
+
+#addButton, #showPaymentsButton, #paymentsTable {
+    border: 1px solid #D8D8D8
+}
+
+#dateDiv {
+    margin-bottom: 30px
+}
+
+#paymentsTable th {
+    background-color: #CCCCCC;
+    color: #ff4500
+}
+
+#paymentsTable tr {
+    text-align: center
+}
+
+#tableDate {
+    width: 165px
+}
+
+#tableAmount {
+    width: 85px
+}
+
+#tableDesc {
+    width: 200px
+}
+
+#tableAction {
+    width: 60px
+}
+
+#yearsList, #monthsList {
+    width: 135px
+}
+
+#totalAmountDiv {
+    margin-top: 10px
+}
+
+#showButtonDiv {
+    margin-left: 90px
+}
